@@ -1,2 +1,2 @@
 # SD-CARD
-SD-CARD interface using Atmega32
+SD-CARD interface with Atmega32
